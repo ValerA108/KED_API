@@ -136,5 +136,25 @@
       "price": 580,
       "image": "/img/ked/5.jpg"
     }
+  ],
+  "orders": [
+    {
+      "id": 0,
+      "title": "Мужские тапки Nikolai Brazzer Big Ben",
+      "price": 500,
+      "image": "/img/ked/1.jpg"
+    },
+    {
+      "id": 1,
+      "title": "Мужские тапки Nikolai Pendal Mid Sandale",
+      "price": 600,
+      "image": "/img/ked/2.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Мужские тапки Nikolai Brazzer Big Ben",
+      "price": 300,
+      "image": "/img/ked/3.jpg"
+    }
   ]
 }
