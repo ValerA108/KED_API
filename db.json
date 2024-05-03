@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "id": 0,
+      "title": "Мужские тапки Nikolai Brazzer Big Ben",
+      "price": 500,
+      "image": "/img/ked/1.jpg"
+    },
+    {
+      "id": 1,
+      "title": "Мужские тапки Nikolai Pendal Mid Sandale",
+      "price": 600,
+      "image": "/img/ked/2.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Мужские тапки Nikolai Brazzer Big Ben",
+      "price": 300,
+      "image": "/img/ked/3.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Мужские тапки Nikolai Pendal Mid Sandale",
+      "price": 560,
+      "image": "/img/ked/4.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Мужские тапки Nikolai Brazzer Big Ben",
+      "price": 580,
+      "image": "/img/ked/5.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Мужские тапки Nikolai Pendal Mid Sandale",
+      "price": 620,
+      "image": "/img/ked/6.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Мужские тапки Nikolai Brazzer Big Ben",
+      "price": 335,
+      "image": "/img/ked/7.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Мужские тапки Nikolai Pendal Mid Sandale",
+      "price": 585,
+      "image": "/img/ked/8.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Мужские тапки Nikolai Pendal Mid Sandale",
+      "price": 900,
+      "image": "/img/ked/9.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Мужские тапки Nikolai Brazzer Big Ben",
+      "price": 555,
+      "image": "/img/ked/10.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Мужские тапки Nikolai Pendal Mid Sandale",
+      "price": 683,
+      "image": "/img/ked/6.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Мужские тапки Nikolai Pendal Mid Sandale",
+      "price": 123,
+      "image": "/img/ked/2.jpg"
+    }
+  ]
+}
